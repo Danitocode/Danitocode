@@ -1,3 +1,4 @@
-<p align="center">
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@Danitocode" frameborder="0"></iframe>
-<p>
+
+![Danitocode github stats](https://github-readme-stats.vercel.app/api?username=Danitocode&show_icons=true&theme=vue-dark)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danitocode&theme=vue-dark&layout=compact)
+-|-
+
