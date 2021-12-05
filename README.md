@@ -3,7 +3,9 @@
 <a href="https://www.linkedin.com/in/daniel-felipe-casta%C3%B1eda-s%C3%A1nchez-4a50451b5/">
   <img src="https://user-images.githubusercontent.com/62465732/144763350-15af1fed-596c-48ff-af8a-67010938f360.png" alt="drawing" width="50"/>
 </a>
-![gmail_logo_PNG1](https://user-images.githubusercontent.com/62465732/144763759-01927329-1285-483e-9611-8e4b54bde2e9.png)
+
+![image](https://user-images.githubusercontent.com/62465732/144763801-038cf18a-32af-46e2-a543-54c6493d2fee.png)
+
 
 <summary><details></summary>
   
