@@ -4,10 +4,10 @@
   <img src="https://user-images.githubusercontent.com/62465732/144763350-15af1fed-596c-48ff-af8a-67010938f360.png" alt="drawing" width="50"/>
 </a>
 
-![image](https://user-images.githubusercontent.com/62465732/144763801-038cf18a-32af-46e2-a543-54c6493d2fee.png)
 
-
-<summary><details></summary>
+## Markdown collapsible section
+<details>
+  <summary><img src="https://user-images.githubusercontent.com/62465732/144763801-038cf18a-32af-46e2-a543-54c6493d2fee.png" alt="drawing" width="50"/></summary>
   
   ## Heading
   1. Item
@@ -24,7 +24,7 @@
 	```
 </details>
 
-![source](https://user-images.githubusercontent.com/62465732/144763244-9445b98c-bd55-4a0c-a267-d511664f035c.gif)
+<img src="https://user-images.githubusercontent.com/62465732/144763244-9445b98c-bd55-4a0c-a267-d511664f035c.gif" alt="drawing" width="100"/>
 
 
 
