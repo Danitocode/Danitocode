@@ -5,7 +5,7 @@
 </a>
 
 
-## My E-mail <img src="https://user-images.githubusercontent.com/62465732/144763801-038cf18a-32af-46e2-a543-54c6493d2fee.png" alt="drawing" width="70"/>
+## My E-mail <img src="https://user-images.githubusercontent.com/62465732/144763801-038cf18a-32af-46e2-a543-54c6493d2fee.png" alt="drawing" width="70x90"/>
 <details>
   <summary></summary>
   
