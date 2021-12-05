@@ -4,7 +4,9 @@
   <img src="https://user-images.githubusercontent.com/62465732/144763350-15af1fed-596c-48ff-af8a-67010938f360.png" alt="drawing" width="50"/>
 </a>
 
-<summary><img src="https://user-images.githubusercontent.com/62465732/144763542-6924c758-dad3-4761-a50d-14d70cb2febc.png" alt="drawing" width="50"/><details></summary>
+![874144-middle](https://user-images.githubusercontent.com/62465732/144763747-cfc84a59-0360-46d3-9fb2-13ed7db36982.png)
+
+<summary><details></summary>
   
   ## Heading
   1. Item
