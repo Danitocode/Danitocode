@@ -7,18 +7,7 @@
 
 ## My E-mail <img src="https://user-images.githubusercontent.com/62465732/144763801-038cf18a-32af-46e2-a543-54c6493d2fee.png" alt="drawing" width="150x70"/>
 <details>
-  <summary></summary>
-  
-  ## Heading
-  1. Item
-  2. list
-     * Item
-     * Item
-```js
-	console.log('code');
-```
 
-- code
 	```js
 		console.log('also code');
 	```
