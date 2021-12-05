@@ -9,11 +9,10 @@
 <details>
 	<img src="https://user-images.githubusercontent.com/62465732/144763801-038cf18a-32af-46e2-a543-54c6493d2fee.png" alt="drawing" width="150x70"/>
 	
-	```js
+	
 	
 		console.log('also code');
-	
-	```
+
 </details>
 
 <img src="https://user-images.githubusercontent.com/62465732/144763244-9445b98c-bd55-4a0c-a267-d511664f035c.gif" alt="drawing" width="100"/>
